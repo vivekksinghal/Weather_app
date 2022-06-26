@@ -1,7 +1,7 @@
 # React Weather App 
 
 # live demo:-
-<a href="https://weather-app-vivsid746.netlify.app/">weather-app-vivsid746</a>
+https://weather-app-vivsid746.netlify.app/"
 
 # APIs Used
 
@@ -23,11 +23,13 @@ https://openweathermap.org/current
   <li>react-scripts</li>
 </ul>
  
- <li>
-✅ Developing and Styling UI with styled-compoents
-✅ API setup with Open Weather
-✅ API integration with Axios
-✅ State Management using React Hooks
-✅ Conditional Rendering of Components
-✅ Better implementation approaches
-    </li>
+ # 📕 Things covered in this project:-
+ <ul>
+<li>✅ Developing and Styling UI with styled-compoents</li>
+<li>✅ API setup with Open Weather</li>
+<li>✅ API integration with Axios</li>
+<li>✅ State Management using React Hooks</li>
+<li>✅ Conditional Rendering of Components</li>
+<li>✅ Better implementation approaches</li>
+</ul>
+
