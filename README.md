@@ -23,9 +23,11 @@ https://openweathermap.org/current
   <li>react-scripts</li>
 </ul>
  
+ <li>
 ✅ Developing and Styling UI with styled-compoents
 ✅ API setup with Open Weather
 ✅ API integration with Axios
 ✅ State Management using React Hooks
 ✅ Conditional Rendering of Components
 ✅ Better implementation approaches
+    </li>
