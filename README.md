@@ -10,15 +10,15 @@ https://openweathermap.org/current
 
 
 # API Info
-<li>
-    <ul>Method: GET</ul>
-    <ul>URL: https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}<ul>
-    </li>
+<ul>
+    <li>Method: GET</li>
+    <li>URL: https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}<li>
+</ul>
 
 
 # Libraries used
-<li>
-  <ul>styled-components</ul>
-  <ul>axios</ul>
-  <ul>react-scripts</ul>
-</li>
+<ul>
+  <li>styled-components</li>
+  <li>axios</li>
+  <li>react-scripts</li>
+</ul>
