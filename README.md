@@ -1,7 +1,7 @@
 # React Weather App 
 
 # live demo:-
-https://weather-app-vivsid746.netlify.app/"
+https://weather-app-vivsid746.netlify.app/
 
 # APIs Used
 
